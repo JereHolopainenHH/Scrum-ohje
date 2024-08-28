@@ -1,8 +1,5 @@
 # Scrum-ohje
-Scrum-ohje projektille
-
-### Yleiskuvaus
-Scrum on ketterä viitekehys, jota käytetään projektien ja tuotteiden kehittämiseen, erityisesti ohjelmistokehityksessä. Sen tavoitteena on parantaa tiimityöskentelyä, joustavuutta ja asiakasarvon tuottamista.
+Ohjelmistoprojekti 1 - SOF005AS3A-3015 | Projekti GitHubissa -ryhmäpalautus
 
 ## Scrumista yleisesti
 Scrum on ketterään kehitykseen pohjautuva projektinhallinnan malli. Scrumin keskeisiä osia ovat muun muassa
