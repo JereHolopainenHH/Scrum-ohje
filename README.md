@@ -1,7 +1,10 @@
 # Scrum-ohje
 Scrum-ohje projektille
 
-Kokoukset
+### Yleiskuvaus
+testi
+
+### Kokoukset
 
     1. Sprint Planning: Sprintin alussa pidettävä kokous, jossa tiimi suunnittelee tulevan sprintin työn ja asettaa sprintin tavoitteen.
 
