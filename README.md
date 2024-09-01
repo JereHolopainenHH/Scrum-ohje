@@ -19,6 +19,18 @@ Sprintti on ajanjakso, yleensä 1-4 viikkoa, jonka aikana Scrum-tiimi työskente
 
 ***
 
+## Työjonot
+
+Scrumissa on kaksi yleisesti määriteltyä työjonoa
+
+1. Tuoteomistajan työjono
+Työjono, joka kattaa kaikki ominaisuudet/toiminnallisuudet, jotka on mahdollisesti tarkoitus implementoida tuotteeseen. Tuoteomistaja nostaa työjonosta tärkeimmät seuraavaksi toteutettavat kohteet.
+
+2. Sprinttityöjono
+Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehitystiimin ja tuoteomistajan kanssa.
+
+***
+
 ## Kokoukset
 
   **1. Sprint Planning:** Sprintin alussa pidettävä kokous, jossa tiimi suunnittelee tulevan sprintin työn ja asettaa sprintin tavoitteen.
