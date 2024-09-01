@@ -19,3 +19,14 @@ Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
     3. Sprint Review: Sprintin lopussa pidettävä kokous, jossa tiimi esittelee sprintin aikana tehdyn työn ja kerää palautetta sidosryhmiltä.
 
     4. Sprint Retrospective: Sprintin päätteeksi pidettävä kokous, jossa tiimi arvioi omaa toimintaansa ja miettii, miten prosesseja voidaan parantaa seuraavaa sprinttiä varten.
+
+### Scrum Roolit
+
+* **Scrum Master**  
+  Scrum Master on vastuussa Scrumin periaatteiden ja käytäntöjen toteutumisesta tiimissä. Hän toimii fasilitaattorina, poistaa esteitä ja varmistaa, että tiimi voi keskittyä kehitystyöhön. Scrum Master ei ole tiimin esimies, vaan ennemminkin palvelija, joka auttaa tiimiä saavuttamaan tavoitteensa.
+
+* **Tuoteomistaja**  
+  Tuoteomistaja vastaa tuotteen kehityksen suunnasta ja priorisoinnista. Hän ylläpitää ja hallitsee kehitysjonoa (Product Backlog), jossa määritellään tuotteen ominaisuudet ja tehtävät. Tuoteomistaja tekee yhteistyötä sidosryhmien kanssa varmistaakseen, että tiimi työskentelee liiketoiminnan kannalta tärkeimpien asioiden parissa.
+
+* **Kehitystiimi**  
+  Kehitystiimi on vastuussa konkreettisen työn tekemisestä, eli tuotteen kehittämisestä. Tiimi on itseohjautuva ja monialainen, mikä tarkoittaa, että heillä on kaikki tarvittavat taidot tehtävien toteuttamiseen. Kehitystiimi suunnittelee, kehittää, testaa ja dokumentoi tuotteen sprinttien aikana.
