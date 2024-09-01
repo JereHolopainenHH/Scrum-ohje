@@ -10,7 +10,7 @@ Scrum on ketterään kehitykseen pohjautuva projektinhallinnan malli. Scrumin ke
 
 Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
 
-### Kokoukset
+## Kokoukset
 
     1. Sprint Planning: Sprintin alussa pidettävä kokous, jossa tiimi suunnittelee tulevan sprintin työn ja asettaa sprintin tavoitteen.
 
@@ -20,7 +20,7 @@ Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
 
     4. Sprint Retrospective: Sprintin päätteeksi pidettävä kokous, jossa tiimi arvioi omaa toimintaansa ja miettii, miten prosesseja voidaan parantaa seuraavaa sprinttiä varten.
 
-### Scrum Roolit
+## Scrum Roolit
 
 * **Scrum Master**  
   Scrum Master on vastuussa Scrumin periaatteiden ja käytäntöjen toteutumisesta tiimissä. Hän toimii fasilitaattorina, poistaa esteitä ja varmistaa, että tiimi voi keskittyä kehitystyöhön. Scrum Master ei ole tiimin esimies, vaan ennemminkin palvelija, joka auttaa tiimiä saavuttamaan tavoitteensa.
@@ -30,3 +30,26 @@ Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
 
 * **Kehitystiimi**  
   Kehitystiimi on vastuussa konkreettisen työn tekemisestä, eli tuotteen kehittämisestä. Tiimi on itseohjautuva ja monialainen, mikä tarkoittaa, että heillä on kaikki tarvittavat taidot tehtävien toteuttamiseen. Kehitystiimi suunnittelee, kehittää, testaa ja dokumentoi tuotteen sprinttien aikana.
+
+## Miksi Scrum toimii?
+
+* **Iteratiivinen lähestymistapa:**  
+  Sprintit mahdollistavat jatkuvan tarkastelun, parantamisen ja tuotteen osittaisen julkaisun säännöllisesti, mikä voi olla hyödyllistä asiakkaille ja sidosryhmille. 
+
+* **Jatkuva palaute:**  
+  Sprinttien jälkeen työtä arvioidaan tiimin kanssa ja saadaan palautetta, joka auttaa parantamaan seuraavaa sprinttiä, tiimin yhteistyötä ja ymmärrystä projektin tavoitteista.
+
+* **Selkeät roolit:**  
+  Jokaisella roolilla on selkeät omat vastuut, mikä auttaa vähentämään konflikteja ja varmistaa, että kaikki tietävät oman tehtävänsä projektissa.
+
+* **Tehokas viestintä:**  
+  Päivittäiset kokoukset (Daily Scrum/Daily stand-ups) pitävät kaikki ajan tasalla, auttavat ratkaisemaan ongelmia nopeasti ja ennakoimaan haasteita ennen kuin ne kasvavat suuriksi.
+
+* **Asiakaslähtöisyys:**  
+  Tuoteomistaja (Product Owner) varmistaa, että tiimi keskittyy tärkeimpiin asioihin, jotka vastaavat asiakkaan tarpeita, ja että tuote pysyy kilpailukykyisenä.
+
+* **Joustavuus:**  
+  Scrum mukautuu muutoksiin projektin aikana, mikä tekee siitä erityisen sopivan monimutkaisiin projekteihin. Joustavuus mahdollistaa tiimille nopean sopeutumisen markkinamuutoksiin ja asiakkaan muuttuneisiin tarpeisiin.
+
+> **Yhteenveto:** Scrum toimii, koska se yhdistää jatkuvan parantamisen, tehokkaan viestinnän ja joustavuuden, mikä auttaa tiimejä saavuttamaan tavoitteensa.
+  
