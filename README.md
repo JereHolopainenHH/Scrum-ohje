@@ -9,7 +9,11 @@ Scrum on ketterään kehitykseen pohjautuva projektinhallinnan malli. Scrumin ke
 4. Daily Scrum
 
 Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
+***
+## Sprintit
 
+Sprintti on ajanjakso, yleensä 1-4 viikkoa, jonka aikana Scrum-tiimi työskentelee ennalta määritellyn tehtäväkokonaisuuden parissa. Sprintin aikana ei tule tehdä merkittäviä muutoksia sprintin tavoitteisiin. Sprintin päätteeksi tiimin pitäisi pystyä esittämään toimiva ja potentiaalisesti julkaistava tuoteinkrementti.
+***
 ## Kokoukset
 
     1. Sprint Planning: Sprintin alussa pidettävä kokous, jossa tiimi suunnittelee tulevan sprintin työn ja asettaa sprintin tavoitteen.
@@ -19,7 +23,7 @@ Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
     3. Sprint Review: Sprintin lopussa pidettävä kokous, jossa tiimi esittelee sprintin aikana tehdyn työn ja kerää palautetta sidosryhmiltä.
 
     4. Sprint Retrospective: Sprintin päätteeksi pidettävä kokous, jossa tiimi arvioi omaa toimintaansa ja miettii, miten prosesseja voidaan parantaa seuraavaa sprinttiä varten.
-
+***
 ## Scrum Roolit
 
 * **Scrum Master**  
@@ -30,7 +34,7 @@ Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
 
 * **Kehitystiimi**  
   Kehitystiimi on vastuussa konkreettisen työn tekemisestä, eli tuotteen kehittämisestä. Tiimi on itseohjautuva ja monialainen, mikä tarkoittaa, että heillä on kaikki tarvittavat taidot tehtävien toteuttamiseen. Kehitystiimi suunnittelee, kehittää, testaa ja dokumentoi tuotteen sprinttien aikana.
-
+***
 ## Miksi Scrum toimii?
 
 * **Iteratiivinen lähestymistapa:**  
