@@ -9,7 +9,7 @@ Scrum on ketterään kehitykseen pohjautuva projektinhallinnan malli. Scrumin ke
 3. Sprintit
 4. Daily Scrum
 
-Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys.
+Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys. Myös asiakaslähtöisyys on tärkeä ja vahva osa Scrumia. Ylikuormittavuus, toteutuksen haastavuus (etenkin uusille kehittäjille) sekä sopimattomuus jokaiseen projektiin ovat joitain Scrumin heikkouksia.
 
 ***
 
