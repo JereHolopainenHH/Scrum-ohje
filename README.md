@@ -87,3 +87,5 @@ Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehit
 
   * **Scrum in 3 minutes:** 
   [![](image.png)](https://youtu.be/iJ_sl6J8PRg?si=qVdcQ0JniLjqKTsU)
+
+  * **[Virallinen Scrum-opas](https://scrumguides.org/scrum-guide.html)**
