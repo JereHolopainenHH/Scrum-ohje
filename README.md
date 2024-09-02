@@ -1,13 +1,13 @@
-# <u>Scrum-ohje</u>
+# Scrum-ohje
 Ohjelmistoprojekti 1 - SOF005AS3A-3015 | Projekti GitHubissa -ryhmäpalautus
 
 ## Scrumista yleisesti
 Scrum on ketterään kehitykseen pohjautuva projektinhallinnan malli. Scrumin keskeisiä osia ovat muun muassa
 
-1. Roolit (Scrum Master, Tuoteomistaja, Kehitystiimi)
-2. Kehitysjono
-3. Sprintit
-4. Daily Scrum
+1. **Roolit** (Scrum Master, Tuoteomistaja, Kehitystiimi)
+2. **Kehitysjono**
+3. **Sprintit**
+4. **Daily Scrum**
 
 Scrumin vahvuuksia ovat nopea reagointi muutoksiin sekä jatkuva kehitys. Myös asiakaslähtöisyys on tärkeä ja vahva osa Scrumia. Ylikuormittavuus, toteutuksen haastavuus (etenkin uusille kehittäjille) sekä sopimattomuus jokaiseen projektiin ovat joitain Scrumin heikkouksia.
 
@@ -23,10 +23,10 @@ Sprintti on ajanjakso, yleensä 1-4 viikkoa, jonka aikana Scrum-tiimi työskente
 
 Scrumissa on kaksi yleisesti määriteltyä työjonoa
 
-1. Tuoteomistajan työjono
+1. **Tuoteomistajan työjono**
 Työjono, joka kattaa kaikki ominaisuudet/toiminnallisuudet, jotka on mahdollisesti tarkoitus implementoida tuotteeseen. Tuoteomistaja nostaa työjonosta tärkeimmät seuraavaksi toteutettavat kohteet.
 
-2. Sprinttityöjono
+2. **Sprinttityöjono**
 Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehitystiimin ja tuoteomistajan kanssa.
 
 ***
