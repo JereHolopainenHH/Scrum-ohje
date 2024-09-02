@@ -78,4 +78,9 @@ Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehit
   Scrum mukautuu muutoksiin projektin aikana, mikä tekee siitä erityisen sopivan monimutkaisiin projekteihin. Joustavuus mahdollistaa tiimille nopean sopeutumisen markkinamuutoksiin ja asiakkaan muuttuneisiin tarpeisiin.
 
 > **Yhteenveto:** Scrum toimii, koska se yhdistää jatkuvan parantamisen, tehokkaan viestinnän ja joustavuuden, mikä auttaa tiimejä saavuttamaan tavoitteensa.
-  
+
+***
+#### Linkit aiheeseen:
+
+  * **Markdown tutorial:** 
+  [![](image.png)](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s)
