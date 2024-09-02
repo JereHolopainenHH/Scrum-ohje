@@ -1,4 +1,4 @@
-# Scrum-ohje
+# Scrum-ohje 
 Ohjelmistoprojekti 1 - SOF005AS3A-3015 | Projekti GitHubissa -ryhmäpalautus
 
 ## Scrumista yleisesti
