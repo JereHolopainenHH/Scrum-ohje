@@ -82,7 +82,7 @@ Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehit
 ***
 ## Linkit aiheeseen:
 
-  * **[Markdown tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s)**
+  * **[Markdown tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA)**
 
   * **[Scrum in 3 minutes](https://youtu.be/iJ_sl6J8PRg?si=qVdcQ0JniLjqKTsU)**
 
