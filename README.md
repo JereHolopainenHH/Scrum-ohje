@@ -80,12 +80,10 @@ Ominaisuudet, joita työstetään yhden sprintin aikana. Valitaan yhdessä kehit
 > **Yhteenveto:** Scrum toimii, koska se yhdistää jatkuvan parantamisen, tehokkaan viestinnän ja joustavuuden, mikä auttaa tiimejä saavuttamaan tavoitteensa.
 
 ***
-#### Linkit aiheeseen:
+## Linkit aiheeseen:
 
-  * **Markdown tutorial:** 
-  [![](image.png)](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s)
+  * **[Markdown tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=60s)**
 
-  * **Scrum in 3 minutes:** 
-  [![](image.png)](https://youtu.be/iJ_sl6J8PRg?si=qVdcQ0JniLjqKTsU)
+  * **[Scrum in 3 minutes](https://youtu.be/iJ_sl6J8PRg?si=qVdcQ0JniLjqKTsU)**
 
   * **[Virallinen Scrum-opas](https://scrumguides.org/scrum-guide.html)**
